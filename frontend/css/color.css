@@ -1,0 +1,15 @@
+/*--
+	Color
+--*/ 
+.color-bg , .nav-holder nav li a:before , .hero-slider_control:before  , .half-hero-wrap h1:before , .nav-button span , .header-contacts li:before , .lang-links:before  , .loader span:after , .hs_init .swiper-scrollbar-drag , .list-folio_nav:before , .list-folio_nav:after , .fc_button:hover , .footer_text:before , .share-icon:after , .share-button:before , .share-button:after  , .accordion a.toggle span:before, .accordion a.toggle span:after , .grid-det_link:before , .scroller , .hero-start-link:after , .hero-section .section-title h2:before  , .hero-bg:before , .team-social:before , .inline-facts-wrap h6:before  , .piechart-holder h4:before , .split-sceen-content_title:before , .order-wrap_inner h3:before , .progress-bar , .scroll-link:before , .inline-facts-wrap h6:before , .tc-pagination  .swiper-pagination-bullet.swiper-pagination-bullet-active , .ss-slider-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active , .fixed-column-wrap_title h2:before  , .pagination a.current-page  , .serv-text:before , .order-wrap h4:before   , .hero-title .section-title h2:before  , .nav-button-wrap:before , .folio-counter div.all-album:before , .inline-filter-panel .gallery-filters a.gallery-filter-active:after  , .order-wrap a:hover , .round-counter div.all-album:before , .swiper-counter div#total:before , .ajaxPageSwitchBacklink:before , .error-wrap form .search-submit , .fixed-filter-panel.fw-panel:after , .share-button span:before  , .custom-skillbar  {
+	background:#F9BF26;
+}
+ .sliding-menu a.act-link , .lang-links a:hover ,  .gallery-filters a.gallery-filter-active , .fw_cb  , .content-nav li a.ln i , .content-nav li a.rn i , .box-media-zoom  , .footer-header span , .footer-contacts li a:hover , .subcribe-form .subscribe-button i , .pr-list li a , .pr-tags ul li a  , .share-icon:hover , .close-share-btn i , .tabs-menu  li.selectedLava a , .video-box-btn  , .pr-view i , .fixed-column-top , .to-top-btn:hover , .subcribe-form .subscribe-button:hover , .flat-project_title_link:hover , .grid-det_link i , .grid-det_category a   , .team-social li  a  , .text-carousel .swiper-slide-active  .text-carousel-item:before , .text-carousel .swiper-slide-active  .text-carousel-item:after , .column-wrap-media_btn:hover i , .leaflet-container a.leaflet-popup-close-button , .leaflet-touch .leaflet-bar a , .cont-det-wrap li a , .parallax-header span , .parallax-header a:hover , .post-opt i , .serv-price-wrap  span , .fet_pr-carousel-box-media-zoom , .section-title_category a:hover , .hero-start-link a:hover i    , .ms_title-start i , .hero-title .section-title h2  span , .section-title_category span  , #submit_btn:hover , .show-info:hover span , .half-hero-wrap_link i , .half-hero-wrap h1 span , .carousel-title-wrap h2 a i , .error-wrap .err-btn i , .pr-list.pr-list-color li{
+	color:#F9BF26;
+}
+
+
+
+.horizonral-subtitle span , .tabs-menu li.backLava{
+	border-color:#F9BF26;
+}
